@@ -1,7 +1,3 @@
-<a href="https://komarev.com/ghpvc/?username=GoncaloPerei">
-  <img align="right" src="https://komarev.com/ghpvc/?username=GoncaloPerei&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
 <p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="325px" align="center"/></p>
 
 <br>
