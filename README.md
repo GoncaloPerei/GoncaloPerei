@@ -9,9 +9,6 @@
     <a href="https://instagram.com/_goncalopereiraa" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
     </a> 
-    <a href="https://www.youtube.com/@goncalopereira9668" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
     <a href="https://facebook.com/goncalopereiraa" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
     </a> 
