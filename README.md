@@ -25,7 +25,7 @@
   <p align="center">
     <samp>
       <br>
-      「 Junior Web Developer👨‍💻 currently finishing 2nd year Higher Professional Technical Courses at <b>@Istec-Porto</b>. 」
+      「 Junior Full-Stack Developer👨‍💻 currently a student at <b>@Master.D</b>. 」
       <br>
       <br>
     </samp>
