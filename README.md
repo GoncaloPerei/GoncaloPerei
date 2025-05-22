@@ -22,7 +22,7 @@
   <p align="center">
     <samp>
       <br>
-      「 Junior Full-Stack Developer👨‍💻 currently a student at <b>@Master.D</b>. 」
+      「 Junior Full-Stack Developer👨‍💻 currently a student at <b>@Master.D Portugal</b>. 」
       <br>
       <br>
     </samp>
