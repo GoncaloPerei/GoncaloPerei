@@ -22,7 +22,7 @@
   <p align="center">
     <samp>
       <br>
-      「 Junior Full-Stack Developer👨‍💻 currently a student at <b>@Master.D Portugal</b>. 」
+      「 Junior Full-Stack Developer👨‍💻 currently a student at <a href="https://www.masterd.pt/" target="_blank"><b>@Master.D Portugal</b></a>. 」
       <br>
       <br>
     </samp>
