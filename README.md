@@ -90,8 +90,8 @@
 
 ## 💡 Featured Projects
 
-[![Project 1](https://img.shields.io/badge/🛒_E--Commerce_App-FF6B6B?style=for-the-badge)](https://github.com/GoncaloPerei/E-commerce-CLIENT)  
-[![Project 2](https://img.shields.io/badge/📈_Shooper_App-4ECDC4?style=for-the-badge)](https://github.com/GoncaloPerei/Shooper)  
+[![Project 1](https://img.shields.io/badge/🛒_E--Commerce_App-FFFFFF?style=for-the-badge)](https://github.com/GoncaloPerei/E-commerce-CLIENT)  
+[![Project 2](https://img.shields.io/badge/📈_Shooper_App-FFFFFF?style=for-the-badge)](https://github.com/GoncaloPerei/Shooper)  
 
 ---
 
