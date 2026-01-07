@@ -1,9 +1,8 @@
-<h1>
-  <samp>Hey, I'm Gonçalo 👋</samp>
-</h1>
-
+</body>
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/81/59/e0/8159e00bf1b72ec93bce8e002d9edc72.jpg" width="80%" align="center"/>
+  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" width="80%" align="center"/>
+  <br/>
+<samp align="center">"made by <a href="https://kirokazepixel.tumblr.com/"><b>@Kirokaze</b></a>"</samp>
 </p>
 
 <br>
