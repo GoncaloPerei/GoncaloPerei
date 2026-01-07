@@ -24,7 +24,7 @@
 
 <p align="center">
   <samp>
-    「 Junior Full-Stack Developer 👨‍💻 currently studying at <a href="https://www.masterd.pt/" target="_blank"><b>@Master.D Portugal</b></a> 」
+    「 Junior Full-Stack Developer 👨‍💻 currently studying at <a href="https://istec-porto.pt/" target="_blank"><b>@Istec Porto</b></a> 」
   </samp>
 </p>
 
